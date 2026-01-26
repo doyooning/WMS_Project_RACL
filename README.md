@@ -4,12 +4,12 @@
 
 ## **📑 목차**
 
-- [프로젝트 개요](https://www.notion.so/2-2b7032b5501b8008901dce7f61c25fab?pvs=21)
-- [기술 스택](https://www.notion.so/2-2b7032b5501b8008901dce7f61c25fab?pvs=21)
-- [프로젝트 구조](https://www.notion.so/2-2b7032b5501b8008901dce7f61c25fab?pvs=21)
-- [기술적 도전과 해결](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/dynii/Downloads/README.md#-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%8F%84%EC%A0%84%EA%B3%BC-%ED%95%B4%EA%B2%B0)
-- [프로젝트 구조](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/dynii/Downloads/README.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
-- [회고](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/dynii/Downloads/README.md#-%ED%9A%8C%EA%B3%A0)
+- [프로젝트 개요](##프로젝트-개요)
+- [사용 기술](##사용-기술)
+- [프로젝트 구조](##프로젝트-구조)
+- [구현_기능](##구현-기능)
+- [기술적 도전과 해결](##기술적-도전과-해결)
+- [회고](##회고)
 
 ---
 
