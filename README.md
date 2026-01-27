@@ -59,21 +59,21 @@
 
 ### 1. 전체 구조도
 
-![project2architecture.jpg](https://file.notion.so/f/f/68a201a0-aab4-44df-9a00-f7290f72afbe/8deb5f96-efcf-4d50-b272-66ce53decb74/project2architecture.jpg?table=block&id=2b7032b5-501b-8065-9ff0-e0d91a92d76b&spaceId=68a201a0-aab4-44df-9a00-f7290f72afbe&expirationTimestamp=1769558400000&signature=Rg6qCvJdmq_szbzEFjGFxdYWT8QvOIMGXq3Zx4SMDJQ&downloadName=project2architecture.jpg)
+![](https://velog.velcdn.com/images/doyooning/post/cd14acd3-1307-41dd-a2c7-08cd990f2bf6/image.jpg)
 
 ### 2. ERD + 와이어프레임
 
 - ERD
     
-    ![wms2project_erd.jpg](https://file.notion.so/f/f/68a201a0-aab4-44df-9a00-f7290f72afbe/a8a5842c-c922-4c8d-82bb-c0a7c5aadf27/wms2project_erd.jpg?table=block&id=2b7032b5-501b-8007-bd34-ea370e768250&spaceId=68a201a0-aab4-44df-9a00-f7290f72afbe&expirationTimestamp=1769558400000&signature=YvlpuavnZUipGEJW8ZdPrj210uPE1tpWOMZstAPJrJM&downloadName=wms2project_erd.jpg)
+![](https://velog.velcdn.com/images/doyooning/post/d500f687-7253-435b-a3b1-4d32c5d18326/image.jpg)
     
 - 와이어 프레임
     
-    ![2차프로젝트_와이어프레임_포폴용.jpg](https://file.notion.so/f/f/68a201a0-aab4-44df-9a00-f7290f72afbe/276df1fd-c7ea-4366-b8c7-a9ba2043c0be/2%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84_%ED%8F%AC%ED%8F%B4%EC%9A%A9.jpg?table=block&id=2b7032b5-501b-80f8-8df1-d9eedd33a38c&spaceId=68a201a0-aab4-44df-9a00-f7290f72afbe&expirationTimestamp=1769558400000&signature=_4DTo0tdAsRdqJ_6O3O4JTVxP0kdSyjypyfdjUSveCg&downloadName=2%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84_%ED%8F%AC%ED%8F%B4%EC%9A%A9.jpg)
+![](https://velog.velcdn.com/images/doyooning/post/75617390-270c-4eab-b581-7e026f45983b/image.jpg)
     
-    ![회원_게시판_와이어프레임.jpg](https://file.notion.so/f/f/68a201a0-aab4-44df-9a00-f7290f72afbe/8ad9f073-9b33-4d5e-a4a1-1d8f5f5753a9/%ED%9A%8C%EC%9B%90_%EA%B2%8C%EC%8B%9C%ED%8C%90_%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84.jpg?table=block&id=2b7032b5-501b-808b-a0c2-e8550eaf42c1&spaceId=68a201a0-aab4-44df-9a00-f7290f72afbe&expirationTimestamp=1769558400000&signature=J8M73cWpWJ-eh1rX134sA9bF9MhWQDtfEaAxB5y4tg8&downloadName=%ED%9A%8C%EC%9B%90_%EA%B2%8C%EC%8B%9C%ED%8C%90_%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84.jpg)
+![](https://velog.velcdn.com/images/doyooning/post/7b83e2a4-bc94-4762-95fd-2d381ed63d07/image.jpg)
     
-    ### 3. 디렉토리 구조
+### 3. 디렉토리 구조
     
     ```java
     src/main/java/com/ssg/wms/ 
@@ -89,7 +89,7 @@
     └─ reply // 문의글에 달린 답글 관련 기능
     ```
     
-    ---
+---
     
 
 ## **구현 기능**
